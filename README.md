@@ -12,7 +12,7 @@ To execute the command open `entertainment_center.py` with _IDLE_ IDE for Python
 
 ### Note
 
-The movie class require four arguments to be instantiated:
+The movie class requires four arguments to be instantiated:
 
 - title
 - box art
